@@ -2,8 +2,8 @@
 Hi, I'm Nguyễn Văn Thuận 👋 <br>🔭 I’m currently developing a mobile app <br>
 
 ## 🌐 Contact Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thuan0301/) </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/v%C4%83n-thu%E1%BA%ADn-nguy%E1%BB%85n-4a18ba219/) </br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thuan0301/) </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/v%C4%83n-thu%E1%BA%ADn-nguy%E1%BB%85n-4a18ba219/) </br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/thuandev23@gmail.com) 
 
 # 💻 Tech Stack:
